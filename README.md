@@ -1,4 +1,4 @@
-# ![Logo](https://avatars.githubusercontent.com/u/68593972?v=4)
+# ![Logo](https://avatars.githubusercontent.com/u/186875001?s=200&v=4)
 
 # Welcome to SwissWebDev! 👋
 
