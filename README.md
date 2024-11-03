@@ -39,7 +39,7 @@ For inquiries or collaborations, visit our main website or reach out via our soc
 [![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://swisswebdev.ch/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marvin-kiefer-b57bbb191/)
 [![Instagram](https://img.shields.io/badge/Instagram-a316c9?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/openiris.ch/)
-[![X](https://img.shields.io/badge/X-a316c9?style=for-the-badge&logo=x&logoColor=white)]([https://www.instagram.com/openiris.ch/](https://x.com/sartiplays))
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sartiplays)
 
 ## 🤝 Contributions
 We are open to collaborations and contributions. Feel free to contribute to our projects or start a conversation about potential partnerships. Please follow our code of conduct.
